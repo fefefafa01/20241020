@@ -1,0 +1,1 @@
+vercel: 20241020-x3sw.vercel.app
